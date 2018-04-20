@@ -35,10 +35,15 @@ Large dataset
 Sample:
 
 Input:
+
 4
+
 hi
+
 yes
+
 foo  bar
+
 hello world
 
 Output:
